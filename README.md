@@ -22,5 +22,5 @@ This project represents my online résumé, designed to present my professional ex
 
 Feel free to reach out if you have any questions or feedback:
 
-- Email: [jsem@dankolman.cz]
+- Email: jsem@dankolman.cz
 
