@@ -16,7 +16,7 @@ This project represents my online résumé, designed to present my professional ex
 
 - HTML5
 - CSS3 (with media queries for responsiveness)
-- JavaScript for lasta page update
+- JavaScript (displays the last time the page was modified)
 
 ## Contact
 
