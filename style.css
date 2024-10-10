@@ -91,6 +91,16 @@ footer {
     color: #fff;
 }
 
+footer a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #333;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
 footer p {
     margin: 0;
 }
@@ -109,7 +119,7 @@ footer p {
     }
 }
 
-/* stylování tlaèítek k vyuívanım technologiím */
+/* stylovÃ¡nÃ­ tlaÄÃ­tek k vyuÅ¾Ã­vanÃ½m technologiÃ­m */
 
 .outlook
 {
